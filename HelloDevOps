@@ -1,4 +1,4 @@
 #!/bin/bash
 echo 'Welcome to DevOps World'
-echo 'Adding new code for Devops.com'
+echo 'Adding new code for Devops.com & commit'
 exit 0
