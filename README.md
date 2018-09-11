@@ -1,2 +1,2 @@
 # DevOpsProject
-DevOpsProject
+echo DevOpsProject
